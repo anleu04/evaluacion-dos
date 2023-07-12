@@ -1,0 +1,21 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    padding: 2rem;
+    
+}
+
+.img {
+    display: none;
+}
+.box {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+.box_2 {
+    display: flex;
+}

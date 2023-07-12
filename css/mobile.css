@@ -1,0 +1,21 @@
+.cuadro{
+    display: flex;
+    width: 18.125rem;
+    height: 64rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    background-color: aqua;
+}
+
+
+
+.logo{
+    width: 19.862071990966797px;
+    height: 11.793106079101562px;
+    top: 7.862060546875px;
+    left: 9.26904296875px;
+    opacity: 0.800000011920929px;
+    
+}
